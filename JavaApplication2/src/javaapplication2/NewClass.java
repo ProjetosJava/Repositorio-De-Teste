@@ -11,5 +11,6 @@ package javaapplication2;
  * @author fernando
  */
 public class NewClass {
+    coisa chata isso
     
 }
